@@ -1,0 +1,20 @@
+# folders
+.ipynb_checkpoints
+.Rproj.user
+
+# files
+.RData
+.DS_Store
+.Rproj.user
+.Rhistory
+.commits.txt
+government-uses.html
+government-uses.nb.html
+applications-in-the-field-of-medical-care.html
+
+# envs
+.env
+.venv
+.environments
+cesium_envdatasets/311.csv # Add it to .gitignore
+datasets/.RData
